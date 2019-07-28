@@ -26,6 +26,7 @@ Synchro | FrozzTee
 **Elite Team**
 Synchro | TSK_Fire
 Synchro | H3ptic
+Synchro | Unlucky Jay WTF
 \n
 **Ultimate Team**
 No one is currently on this team. Join us in <#570734933748875265>
